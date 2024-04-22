@@ -8,8 +8,11 @@ A simple clone of Google Keep built using React, designed to help users create a
 - **Delete Notes:** Remove notes when they are no longer needed.
 
 ## Demo
+![image](https://github.com/Muntajir11/Google-Keeps-Clone/assets/91109805/4c5653b3-79a7-496b-bac5-74801958ff13)
+
 ![image](https://github.com/Muntajir11/Google-Keeps-Clone/assets/91109805/51922f20-7ce0-42e8-8497-e257ddc8230e)
 
+### Hosted 
 https://google-keeps-clone.onrender.com/
 
 ## Installation
