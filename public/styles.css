@@ -41,19 +41,24 @@ header h1 {
 }
 
 footer {
-  position: relative;
-  text-align: center;
-  padding: 10px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
   background: #333;
   color: #ccc;
-  width: 100%;
+  text-align: center;
+  padding: 16px 0;
   font-size: 0.9rem;
-  margin-top: auto; /* Ensure footer sticks to the bottom */
+  box-shadow: 0 -1px 5px rgba(0, 0, 0, 0.1);
+  border-top: 1px solid #444;
+  border-radius: 20px 20px 0 0;
 }
 
 footer p {
-  color: #ccc;
   margin: 0;
+  color: #ccc;
+  font-weight: 300;
 }
 
 .note {
