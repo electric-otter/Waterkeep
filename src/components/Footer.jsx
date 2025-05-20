@@ -4,7 +4,7 @@ function Footer() {
   const year = new Date().getFullYear();
   return (
     <footer>
-      <p>Copyright ⓒ {year}</p>
+      <p>Thanks to your support, Waterkeep has exceeded {year}!</p>
     </footer>
   );
 }
